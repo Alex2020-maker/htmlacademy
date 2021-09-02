@@ -1,4 +1,4 @@
-<h1>htmlacademy</h1>
+<h1>html academy</h1>
 <p><h4>Начальный уровень:</h4></p>
 <ul>
   <li>Основы HTML и CSS;
